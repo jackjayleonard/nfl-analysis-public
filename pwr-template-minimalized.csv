@@ -1,0 +1,33 @@
+Location,Mascot,Abbreviation,Conference,Division
+Buffalo,Bills,BUF,AFC,East
+New England,Patriots,NE,AFC,East
+New York,Jets,NYJ,AFC,East
+Miami,Dolphins,MIA,AFC,East
+Las Vegas,Raiders,LV,AFC,West
+Los Angeles,Chargers,LAC,AFC,West
+Denver,Broncos,DEN,AFC,West
+Kansas City,Chiefs,KC,AFC,West
+Baltimore,Ravens,BAL,AFC,North
+Cincinnati,Bengals,CIN,AFC,North
+Pittsburgh,Steelers,PIT,AFC,North
+Cleveland,Browns,CLE,AFC,North
+Tennessee,Titans,TEN,AFC,South
+Indianapolis,Colts,IND,AFC,South
+Jacksonville,Jaguars,JAX,AFC,South
+Houston,Texans,HOU,NFC,South
+Dallas,Cowboys,DAL,NFC,East
+Philadelphia,Eagles,PHI,NFC,East
+New York,Giants,NYG,NFC,East
+Washington,Commanders,WAS,NFC,East
+Arizona,Cardinals,ARI,NFC,West
+Los Angeles,Rams,LAR,NFC,West
+San Francisco,49ers,SF,NFC,West
+Seattle,Seahawks,SEA,NFC,West
+Green Bay,Packers,GB,NFC,North
+Minnesota,Vikings,MIN,NFC,North
+Chicago,Bears,CHI,NFC,North
+Detroit,Lions,DET,NFC,North
+Tampa Bay,Buccaneers,TB,NFC,South
+New Orleans,Saints,NO,NFC,South
+Carolina,Panthers,CAR,NFC,South
+Atlanta,Falcons,ATL,NFC,South
